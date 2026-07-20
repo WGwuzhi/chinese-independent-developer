@@ -30,7 +30,7 @@
 * :white_check_mark: [大姨妈来了](https://apps.apple.com/cn/app/6771209627)：经期日历助手，含排卵和易孕安全期计算
 
 #### zhugezifang
-* :white_check_mark: [PDF轉QR Code](https://pdf2url.com/pdf-to-qr-code)：将 PDF 转换为二维码的在线工具
+* :white_check_mark: [PDF 转 QR Code](https://pdf2url.com/pdf-to-qr-code)：将 PDF 转换为二维码的在线工具
 
 #### Ethan - [Github](https://github.com/ethannelson2000)
 * :white_check_mark: [VioEvo](https://www.vioevo.com)：AI 创意工作室，支持图片生成、图片转视频和 AI 视频创作，集成多个领先生成模型
