@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### Mil0R(北京) - [Github](https://github.com/Mil0R)
+* :white_check_mark: [FocusLens-屏幕截图聚焦编辑器](https://getfocuslens.com/)：将你的图片局部放置放大镜进行放大显示，聚焦以引起注意
+
 #### fatwang2 - [Github](https://github.com/fatwang2)
 * :white_check_mark: [Pulse](https://www.pulseticker.app/)：macOS 原生菜单栏行情工具，一眼查看美股、港股、A 股、加密货币、指数和 ETF，支持自选与持仓盈亏，免费开源 - [查看仓库](https://github.com/fatwang2/Pulse)
 
